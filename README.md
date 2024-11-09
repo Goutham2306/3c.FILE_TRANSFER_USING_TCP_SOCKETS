@@ -56,7 +56,7 @@ while True:
         conn.send('Thank you for connecting'.encode())
         conn.close()
 ```
-## OUPUT
+## OUTPUT
 ## Client:
 ![image](https://github.com/user-attachments/assets/4f0bd869-da87-4e93-97ee-73788aaeaf3c)
 
